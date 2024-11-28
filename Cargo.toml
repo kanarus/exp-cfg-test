@@ -1,0 +1,13 @@
+[package]
+name          = "exp-cfg-test"
+version       = "0.1.0"
+edition       = "2021"
+authors       = ["kanarus <kanarus786@gmail.com>"]
+# documentation = "https://docs.rs/exp-cfg-test"
+# homepage      = "https://crates.io/crates/exp-cfg-test"
+# repository    = "https://github.com/kana-rus/exp-cfg-test"
+# readme        = "README.md"
+# license       = "MIT"
+# description   = ""
+# keywords      = []
+# categories    = []
